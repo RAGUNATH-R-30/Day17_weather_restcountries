@@ -1,15 +1,13 @@
 .image-container {
     width: 100%; 
-    height: 200px; 
-    border: 1px solid #ccc;
-    overflow: hidden;
-    background-color: #2A2F4F; 
+    height: 170px;    
 }
 
 img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    padding: 5px;
+
 }
 .card{
     background-color: #917FB3;
